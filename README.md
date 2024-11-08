@@ -1,3 +1,3 @@
 # sydney-smythe.github.io
 
-Hello! My name is Sydney!
+Hello, my name is Sydney!
